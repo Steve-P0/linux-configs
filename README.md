@@ -1,2 +1,2 @@
 # linux-configs
-linux configs for archlinux
+linux configs for my archlinux installation
